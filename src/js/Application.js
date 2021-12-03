@@ -22,6 +22,6 @@ export default class Application extends EventEmitter {
         loop: true,
         easing: 'spring(1, 80, 10, 0)'
       });
-    });
+    })
   }
 }
